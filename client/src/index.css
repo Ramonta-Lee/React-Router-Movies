@@ -61,6 +61,11 @@ body {
   padding: 5px 10px;
   background-color: lightseagreen;
 }
+
+.save-button-hide {
+  display: none;
+}
+
 .save-button:hover {
   background-color: green;
   color: white;
